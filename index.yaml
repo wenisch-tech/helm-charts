@@ -5,7 +5,7 @@ entries:
       org.opencontainers.image.source: https://github.com/wenisch-tech/AdapterFS
     apiVersion: v2
     appVersion: 0.1.4
-    created: "2026-10-08T07:57:15.936500812Z"
+    created: "2026-10-08T08:10:41.311675421Z"
     description: Expose mounted Kubernetes filesystems through web, WebDAV, SFTP,
       FTP and S3
     digest: a54e87f0c913a373dc18c45660925606c1afb0c8c8f487809271edea8e6bfdb5
@@ -37,7 +37,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 1.1.10
-    created: "2026-10-08T07:57:15.938102271Z"
+    created: "2026-10-08T08:10:41.312517369Z"
     description: 'A Kubernetes operator that automatically deletes resources annotated
       with wenisch.tech/ttl when the specified UTC timestamp has passed. '
     digest: 5b0a0aaa96e827325c8e3d28fece6c981e34657b8c9718d1b48cd009a836b1af
@@ -77,7 +77,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 1.1.7
-    created: "2026-10-08T07:57:15.940138149Z"
+    created: "2026-10-08T08:10:41.314014877Z"
     description: 'A Kubernetes operator that automatically deletes resources annotated
       with wenisch.tech/ttl when the specified UTC timestamp has passed. '
     digest: 5aadf7a5f5b5201d272be2a4bd628faceaad03d1c0f1e0c337d3fa3da803c80b
@@ -117,7 +117,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 1.1.4
-    created: "2026-10-08T07:57:15.939624375Z"
+    created: "2026-10-08T08:10:41.313651329Z"
     description: 'A Kubernetes operator that automatically deletes resources annotated
       with wenisch.tech/ttl when the specified UTC timestamp has passed. '
     digest: 0a7ca6080d8582236ac7cab13d18a2b3b694f0b0fec0e9a701e21ba7aec4d42a
@@ -157,7 +157,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 1.1.3
-    created: "2026-10-08T07:57:15.939149715Z"
+    created: "2026-10-08T08:10:41.313266509Z"
     description: 'A Kubernetes operator that automatically deletes resources annotated
       with wenisch.tech/ttl when the specified UTC timestamp has passed. '
     digest: 8a953d58c559b4e05809e47f8e3048c2df5697b04d6c0e50024ac69718701a3b
@@ -197,7 +197,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 1.1.2
-    created: "2026-10-08T07:57:15.938630131Z"
+    created: "2026-10-08T08:10:41.312901728Z"
     description: 'A Kubernetes operator that automatically deletes resources annotated
       with wenisch.tech/ttl when the specified UTC timestamp has passed. '
     digest: 6af52490a3d252003854e15243400fdc4d70c95d91e65d93f194ec8c7369985c
@@ -237,7 +237,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 1.1.1
-    created: "2026-10-08T07:57:15.937524869Z"
+    created: "2026-10-08T08:10:41.312114822Z"
     description: 'A Kubernetes operator that automatically deletes resources annotated
       with wenisch.tech/ttl when the specified UTC timestamp has passed. '
     digest: 905ef5a6e655c45494ad3d328536e9f68428f04bfe5271680d90a088fc44a462
@@ -264,7 +264,7 @@ entries:
       org.opencontainers.image.source: https://github.com/wenisch-tech/ContextCrate
     apiVersion: v2
     appVersion: 0.9.16
-    created: "2026-10-08T07:57:15.940622096Z"
+    created: "2026-10-08T08:10:41.314392507Z"
     description: Self-hosted crawling and indexing platform
     digest: 04895a0d4bfefc33a6345b9a53b2b682d232e6edb46c687286ce0985055cc565
     home: https://github.com/wenisch-tech/ContextCrate
@@ -307,7 +307,7 @@ entries:
           url: https://raw.githubusercontent.com/JFWenisch/ipfix-generator/main/docs/img/preview_jobdetails.jpeg
     apiVersion: v2
     appVersion: 0.6.9
-    created: "2026-10-08T07:57:15.944013075Z"
+    created: "2026-10-08T08:10:41.31718865Z"
     description: A Spring Boot IPFIX traffic generator with a web UI and REST endpoints.
     digest: 06e8bb65ed85a0faa1d0dd415b0ee55d45e2cc01336c2e7a7bc4b0715f4b86a0
     home: https://github.com/JFWenisch/ipfix-generator
@@ -351,7 +351,7 @@ entries:
           url: https://raw.githubusercontent.com/JFWenisch/ipfix-generator/main/docs/img/preview_jobdetails.jpeg
     apiVersion: v2
     appVersion: 0.6.5
-    created: "2026-10-08T07:57:15.94334377Z"
+    created: "2026-10-08T08:10:41.316668179Z"
     description: A Spring Boot IPFIX traffic generator with a web UI and REST endpoints.
     digest: c7c79fcc492bbf01d80a2a0ac51911078a6cb9e58a3c42799a7fd50de2e228b8
     home: https://github.com/JFWenisch/ipfix-generator
@@ -395,7 +395,7 @@ entries:
           url: https://raw.githubusercontent.com/JFWenisch/ipfix-generator/main/docs/img/preview_jobdetails.jpeg
     apiVersion: v2
     appVersion: 0.6.4
-    created: "2026-10-08T07:57:15.942670106Z"
+    created: "2026-10-08T08:10:41.316070463Z"
     description: A Spring Boot IPFIX traffic generator with a web UI and REST endpoints.
     digest: 0412a7d41c0cf018365cb8a722f67a4b80c61e325a5d1b6eecdde7810b127100
     home: https://github.com/JFWenisch/ipfix-generator
@@ -439,7 +439,7 @@ entries:
           url: https://raw.githubusercontent.com/JFWenisch/ipfix-generator/main/docs/img/preview_jobdetails.jpeg
     apiVersion: v2
     appVersion: 0.6.3
-    created: "2026-10-08T07:57:15.942012573Z"
+    created: "2026-10-08T08:10:41.315443715Z"
     description: A Spring Boot IPFIX traffic generator with a web UI and REST endpoints.
     digest: 6d2a50aae73917ecf0ead51dbbcf17aadeee72c0f1cce6293bd5b68b8076c201
     home: https://github.com/JFWenisch/ipfix-generator
@@ -483,7 +483,7 @@ entries:
           url: https://raw.githubusercontent.com/JFWenisch/ipfix-generator/main/docs/img/preview_jobdetails.jpeg
     apiVersion: v2
     appVersion: 0.6.2
-    created: "2026-10-08T07:57:15.941325204Z"
+    created: "2026-10-08T08:10:41.314936603Z"
     description: A Spring Boot IPFIX traffic generator with a web UI and REST endpoints.
     digest: 05373f4bf3f7eddca600b730e2591fede61e3c32ed5883b655d4af969aa5adb9
     home: https://github.com/JFWenisch/ipfix-generator
@@ -506,7 +506,7 @@ entries:
     version: 0.6.2
   - apiVersion: v2
     appVersion: v0.4.2
-    created: "2026-10-08T07:57:15.946644264Z"
+    created: "2026-10-08T08:10:41.319100598Z"
     description: A Helm chart for Kubernetes
     digest: 3fe51f8563bdd4178b9fee7eefb5e57466031c0ea0aae08016e52ac599a68b35
     name: ipfix-generator
@@ -516,7 +516,7 @@ entries:
     version: v0.4.2
   - apiVersion: v2
     appVersion: v0.4.1
-    created: "2026-10-08T07:57:15.946211773Z"
+    created: "2026-10-08T08:10:41.318790018Z"
     description: A Helm chart for Kubernetes
     digest: 503c53460ad3686e5d137879c1ca914cb4c30a0a3290b721c71a6bfb3d62b002
     name: ipfix-generator
@@ -526,7 +526,7 @@ entries:
     version: v0.4.1
   - apiVersion: v2
     appVersion: v0.4.0
-    created: "2026-10-08T07:57:15.945738786Z"
+    created: "2026-10-08T08:10:41.318436695Z"
     description: A Helm chart for Kubernetes
     digest: cd6d36a602c3925cb6b22310e2e982beb1e7bc2040890d9dfbf6088b2afa439e
     name: ipfix-generator
@@ -536,7 +536,7 @@ entries:
     version: v0.4.0
   - apiVersion: v2
     appVersion: v0.3.16-feature-helm-package.0
-    created: "2026-10-08T07:57:15.945014953Z"
+    created: "2026-10-08T08:10:41.317987825Z"
     description: A Helm chart for Kubernetes
     digest: be02ed7f325e28531884751d9d6d36cbb9ab2e58a68d0d7f11fcf5b837f46bb3
     name: ipfix-generator
@@ -587,8 +587,74 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
       org.opencontainers.image.source: https://github.com/wenisch-tech/Kairos
     apiVersion: v2
+    appVersion: 2.24.2
+    created: "2026-10-08T08:10:41.3997174Z"
+    description: A self-hosted uptime and availability monitoring application
+    digest: abcf6aa8e2dbdd6ab15c339ebdebf98e38019a6536ce60613f4e1e8a7dd9d3a6
+    home: https://kairos.wenisch.tech
+    icon: https://raw.githubusercontent.com/wenisch-tech/Kairos/main/src/main/resources/static/img/kairos.png
+    keywords:
+    - monitoring
+    - uptime
+    - availability
+    - docker
+    - http
+    maintainers:
+    - name: JFWenisch
+      url: https://github.com/JFWenisch
+    - name: Wenisch Technologies
+      url: https://wenisch.tech
+    name: kairos
+    sources:
+    - https://github.com/wenisch-tech/Kairos
+    type: application
+    urls:
+    - https://charts.wenisch.tech/kairos/kairos-2.24.2.tgz
+    version: 2.24.2
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/images: |
+        - name: kairos
+          image: ghcr.io/wenisch-tech/kairos:latest
+      artifacthub.io/license: AGPL-3.0
+      artifacthub.io/links: |
+        - name: Official Website
+          url: https://kairos.wenisch.tech
+        - name: Documentation
+          url: https://kairos.wenisch.tech/docs
+        - name: GitHub Repository
+          url: https://github.com/wenisch-tech/Kairos
+        - name: Changelog
+          url: https://github.com/wenisch-tech/Kairos/blob/main/CHANGELOG.md
+        - name: Container Registry
+          url: https://github.com/wenisch-tech/Kairos/pkgs/container/kairos
+      artifacthub.io/prerelease: "false"
+      artifacthub.io/screenshots: |
+        - title: Dashboard
+          url: https://raw.githubusercontent.com/wenisch-tech/Kairos/main/docs/img/dashboard.png
+        - title: Resource Detail
+          url: https://raw.githubusercontent.com/wenisch-tech/Kairos/main/docs/img/resource-detail.png
+        - title: Admin Resources
+          url: https://raw.githubusercontent.com/wenisch-tech/Kairos/main/docs/img/admin-resources.png
+        - title: Admin Resource Types
+          url: https://raw.githubusercontent.com/wenisch-tech/Kairos/main/docs/img/admin-resource-types.png
+        - title: Admin Users
+          url: https://raw.githubusercontent.com/wenisch-tech/Kairos/main/docs/img/admin-users.png
+        - title: Admin Settings
+          url: https://raw.githubusercontent.com/wenisch-tech/Kairos/main/docs/img/admin-settings.png
+        - title: Admin API Keys
+          url: https://raw.githubusercontent.com/wenisch-tech/Kairos/main/docs/img/admin-api-keys.png
+        - title: Admin Announcements
+          url: https://raw.githubusercontent.com/wenisch-tech/Kairos/main/docs/img/admin-announcements.png
+        - title: Login
+          url: https://raw.githubusercontent.com/wenisch-tech/Kairos/main/docs/img/login.png
+      artifacthub.io/signKey: |
+        fingerprint: keyless (Sigstore/Cosign via GitHub Actions OIDC)
+        url: https://github.com/wenisch-tech/Kairos/actions
+      org.opencontainers.image.source: https://github.com/wenisch-tech/Kairos
+    apiVersion: v2
     appVersion: 2.24.0
-    created: "2026-10-08T07:57:16.049858848Z"
+    created: "2026-10-08T08:10:41.398999686Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 01aa55058bb479a796c2f63d42e19ff1d6044ae5431733cfcdecd0c20a5d6b1a
     home: https://kairos.wenisch.tech
@@ -654,7 +720,7 @@ entries:
       org.opencontainers.image.source: https://github.com/wenisch-tech/Kairos
     apiVersion: v2
     appVersion: 2.23.0
-    created: "2026-10-08T07:57:16.048966415Z"
+    created: "2026-10-08T08:10:41.398246731Z"
     description: A self-hosted uptime and availability monitoring application
     digest: f7a47793c7db9c3bd25d5153fa31b274c705dae924c5302dde67db75ad920de7
     home: https://kairos.wenisch.tech
@@ -720,7 +786,7 @@ entries:
       org.opencontainers.image.source: https://github.com/wenisch-tech/Kairos
     apiVersion: v2
     appVersion: 2.22.7
-    created: "2026-10-08T07:57:16.047634006Z"
+    created: "2026-10-08T08:10:41.397475718Z"
     description: A self-hosted uptime and availability monitoring application
     digest: a0d1be711deed0de5acf77be17e3072cca64a182afaf5017460008e1d0539ea9
     home: https://kairos.wenisch.tech
@@ -785,7 +851,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.22.6
-    created: "2026-10-08T07:57:16.046652426Z"
+    created: "2026-10-08T08:10:41.396619234Z"
     description: A self-hosted uptime and availability monitoring application
     digest: fabc8c61edf7da72ebc5e0995e0fc8debe127d34767ad2e64ba71dfddc6f5e00
     home: https://kairos.wenisch.tech
@@ -850,7 +916,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.22.5
-    created: "2026-10-08T07:57:16.045650197Z"
+    created: "2026-10-08T08:10:41.395243416Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 156be198fcaf6c981203f7a43b92a435618bdc50318a6d66a6679c784d950512
     home: https://kairos.wenisch.tech
@@ -915,7 +981,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.22.4
-    created: "2026-10-08T07:57:16.043979826Z"
+    created: "2026-10-08T08:10:41.394565632Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 5384f3a2dfacd8ef8d137e24b7c1e6aee27464795fbb0ba5e158ed70e430da3b
     home: https://kairos.wenisch.tech
@@ -980,7 +1046,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.22.3
-    created: "2026-10-08T07:57:16.043126316Z"
+    created: "2026-10-08T08:10:41.393838754Z"
     description: A self-hosted uptime and availability monitoring application
     digest: cb556e7ae829b839e4d3ea23df0d172ebb6141f63ce7f85be0598e71bd80bcbb
     home: https://kairos.wenisch.tech
@@ -1045,7 +1111,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.22.2
-    created: "2026-10-08T07:57:16.042270782Z"
+    created: "2026-10-08T08:10:41.393129694Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 7bb6fd8e25f8e0911f0acc3310c5b71027b3540378462f27cc53692825b56ff2
     home: https://kairos.wenisch.tech
@@ -1110,7 +1176,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.22.1
-    created: "2026-10-08T07:57:16.041389329Z"
+    created: "2026-10-08T08:10:41.392388485Z"
     description: A self-hosted uptime and availability monitoring application
     digest: c8905d466360bcbf0227eeea36bf0ccaccf2bed3b822486c215577090e6622f3
     home: https://kairos.wenisch.tech
@@ -1175,7 +1241,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.22.0
-    created: "2026-10-08T07:57:16.040493529Z"
+    created: "2026-10-08T08:10:41.391707787Z"
     description: A self-hosted uptime and availability monitoring application
     digest: b81b3e27366b651f624cc15a7b1f339bcebc43c796e6eb461b6f499dff4dbc2e
     home: https://kairos.wenisch.tech
@@ -1240,7 +1306,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.21.2
-    created: "2026-10-08T07:57:16.039588161Z"
+    created: "2026-10-08T08:10:41.391005416Z"
     description: A self-hosted uptime and availability monitoring application
     digest: c99fafde4f01f70da3888fdfe715ede6c08d944b3933d1a5ad3ced9aebe81bcd
     home: https://kairos.wenisch.tech
@@ -1305,7 +1371,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.21.1
-    created: "2026-10-08T07:57:16.038725925Z"
+    created: "2026-10-08T08:10:41.390323976Z"
     description: A self-hosted uptime and availability monitoring application
     digest: c838b0c4520bde82e310a7ebb1b6b4112baff3c73d35b5aa47e7efd0c3da0d59
     home: https://kairos.wenisch.tech
@@ -1370,7 +1436,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.21.0
-    created: "2026-10-08T07:57:16.037885559Z"
+    created: "2026-10-08T08:10:41.389654474Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 2c9bb5b5ff5d869323e70f0d8f53677097d69ac39c69e2798f76b67dfae50401
     home: https://kairos.wenisch.tech
@@ -1435,7 +1501,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.20.10
-    created: "2026-10-08T07:57:16.028949618Z"
+    created: "2026-10-08T08:10:41.382833822Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 8a0fbd3da8006e6e3a82b2c75d77e8756b872e52aebe0e3039d3c076d67e837f
     home: https://kairos.wenisch.tech
@@ -1500,7 +1566,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.20.9
-    created: "2026-10-08T07:57:16.0370171Z"
+    created: "2026-10-08T08:10:41.388959234Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 349618f0e8dffc10ac67ecdd079c917555cc4de9ea74da5dcef5e31ae7684b8b
     home: https://kairos.wenisch.tech
@@ -1565,7 +1631,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.20.8
-    created: "2026-10-08T07:57:16.036149103Z"
+    created: "2026-10-08T08:10:41.388234751Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 2d9456c4def40fe663133b691f674a96e778eeace772c4d8a83e9595fbfe24a3
     home: https://kairos.wenisch.tech
@@ -1630,7 +1696,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.20.7
-    created: "2026-10-08T07:57:16.03505403Z"
+    created: "2026-10-08T08:10:41.386841741Z"
     description: A self-hosted uptime and availability monitoring application
     digest: afec41be0806c747c2037e72074799db169c37fb69f627cf16a92fdfce06a289
     home: https://kairos.wenisch.tech
@@ -1695,7 +1761,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.20.6
-    created: "2026-10-08T07:57:16.033151727Z"
+    created: "2026-10-08T08:10:41.386168364Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 2c4c48b72b860794b9b70c60a7da6bb60fd91293e015fdea8e0eb09566015ff5
     home: https://kairos.wenisch.tech
@@ -1760,7 +1826,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.20.5
-    created: "2026-10-08T07:57:16.032284421Z"
+    created: "2026-10-08T08:10:41.385482978Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 8ce0d5bfb30b88b8efd4116995f7fe05534ae9cc4015a79f36ad04524214267d
     home: https://kairos.wenisch.tech
@@ -1825,7 +1891,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.20.4
-    created: "2026-10-08T07:57:16.031438856Z"
+    created: "2026-10-08T08:10:41.384815769Z"
     description: A self-hosted uptime and availability monitoring application
     digest: c5ecad7a2a5b52a448f31eec6962e5af32e5a1f4cde4f4b7d94cd9bd7a241732
     home: https://kairos.wenisch.tech
@@ -1890,7 +1956,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.20.3
-    created: "2026-10-08T07:57:16.0306143Z"
+    created: "2026-10-08T08:10:41.384148981Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 0b9d9061d14656b33b18f4fd3d795a6169fd042729c54c1922abcacf394b575f
     home: https://kairos.wenisch.tech
@@ -1955,7 +2021,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.20.2
-    created: "2026-10-08T07:57:16.029760088Z"
+    created: "2026-10-08T08:10:41.383492839Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 8864220bb63dade5153b264cb0a82703007f355f086c738753fc9441eb1faab3
     home: https://kairos.wenisch.tech
@@ -2020,7 +2086,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.20.1
-    created: "2026-10-08T07:57:16.028098302Z"
+    created: "2026-10-08T08:10:41.382146965Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 9d07add9741f205d68dd06e1b3f458728256477b70d927fc9204793aa7a6f3a9
     home: https://kairos.wenisch.tech
@@ -2085,7 +2151,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.20.0
-    created: "2026-10-08T07:57:16.027266793Z"
+    created: "2026-10-08T08:10:41.381483131Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 58ed2126ed6d693802974df1bc682d3f85e7d32f2e576d19b87ca6c52bceec8e
     home: https://kairos.wenisch.tech
@@ -2150,7 +2216,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.19.12
-    created: "2026-10-08T07:57:16.018039724Z"
+    created: "2026-10-08T08:10:41.374190715Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 221227f3f979eabdb32b9ad4326e63000e889ead17f9b7774a7b25315952a0d6
     home: https://kairos.wenisch.tech
@@ -2215,7 +2281,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.19.11
-    created: "2026-10-08T07:57:16.017225137Z"
+    created: "2026-10-08T08:10:41.373562805Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 37b4ae6efbf91a953fe5bdc17da2d6c1e1ee5fe8f6b4421b9643fd3a878ccab8
     home: https://kairos.wenisch.tech
@@ -2280,7 +2346,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.19.9
-    created: "2026-10-08T07:57:16.025699774Z"
+    created: "2026-10-08T08:10:41.380209464Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 667107cb8749f0043f5ec43371220d1fd3f89aeaade98f9529b28f8ef898af4d
     home: https://kairos.wenisch.tech
@@ -2345,7 +2411,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.19.8
-    created: "2026-10-08T07:57:16.024803905Z"
+    created: "2026-10-08T08:10:41.379398912Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 2e43726207d6169d453de6fc36af745522047a3d24fc72c2b245e19b4cc244e7
     home: https://kairos.wenisch.tech
@@ -2410,7 +2476,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.19.7
-    created: "2026-10-08T07:57:16.022898264Z"
+    created: "2026-10-08T08:10:41.378132666Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 2aa3d5430b133252f3d0f9ebc8cf001eafe6c39527281326fe8809a98541bc88
     home: https://kairos.wenisch.tech
@@ -2475,7 +2541,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.19.6
-    created: "2026-10-08T07:57:16.022086452Z"
+    created: "2026-10-08T08:10:41.377492998Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 9613d127742cf53318fa7bd916834b8bb787a27133710f48991d909bb15a02c2
     home: https://kairos.wenisch.tech
@@ -2540,7 +2606,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.19.5
-    created: "2026-10-08T07:57:16.021267256Z"
+    created: "2026-10-08T08:10:41.376828924Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 6b0775bcbc388c132898e5963e1924160d84f00e2331cc8f1b07a7297f0dd241
     home: https://kairos.wenisch.tech
@@ -2605,7 +2671,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.19.4
-    created: "2026-10-08T07:57:16.020465463Z"
+    created: "2026-10-08T08:10:41.376146553Z"
     description: A self-hosted uptime and availability monitoring application
     digest: e77093de6aca212b72de5f53765a5568f8df6425dafb3880fe471748a59f2467
     home: https://kairos.wenisch.tech
@@ -2670,7 +2736,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.19.3
-    created: "2026-10-08T07:57:16.019636559Z"
+    created: "2026-10-08T08:10:41.37548997Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 46ca5fa4a442eb9779a2fc455010be9cc156f3394ac185d43ad3fd6e53635309
     home: https://kairos.wenisch.tech
@@ -2735,7 +2801,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.19.2
-    created: "2026-10-08T07:57:16.018847629Z"
+    created: "2026-10-08T08:10:41.374840468Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 6af3f47795a2deae17314b02f6bf6d98fcce0aab950a16cb5e786fdae503d435
     home: https://kairos.wenisch.tech
@@ -2800,7 +2866,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.19.1
-    created: "2026-10-08T07:57:16.016376566Z"
+    created: "2026-10-08T08:10:41.372912301Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 915be77b178e849479ac45d708c862359319c47d7d180eb6318f81d7c22225b4
     home: https://kairos.wenisch.tech
@@ -2865,7 +2931,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.19.0
-    created: "2026-10-08T07:57:16.015534717Z"
+    created: "2026-10-08T08:10:41.37224337Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 337b1c414a192e3bf63321991b179d8015bb3fd2b6f017f474358514b6e2ba44
     home: https://kairos.wenisch.tech
@@ -2930,7 +2996,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.18.0
-    created: "2026-10-08T07:57:16.014572252Z"
+    created: "2026-10-08T08:10:41.371514039Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 5753d4e2f36909f97c234a9a91cbde2a1a6de070048d430581593c1918522196
     home: https://kairos.wenisch.tech
@@ -2995,7 +3061,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.17.0
-    created: "2026-10-08T07:57:16.01248758Z"
+    created: "2026-10-08T08:10:41.369975819Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 3963ce57a392040594a0a5d950738f3ca05f2ebc8838d8baa47b171c715fc422
     home: https://kairos.wenisch.tech
@@ -3060,7 +3126,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.16.6
-    created: "2026-10-08T07:57:16.011680878Z"
+    created: "2026-10-08T08:10:41.369333197Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 9b52fe3f7b36b317472c2c5666dd36c02c59b91a160b074c7689f3712e0c74c6
     home: https://kairos.wenisch.tech
@@ -3125,7 +3191,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.16.3
-    created: "2026-10-08T07:57:16.01088243Z"
+    created: "2026-10-08T08:10:41.368672869Z"
     description: A self-hosted uptime and availability monitoring application
     digest: b954456189fb25453d724f0e0bb8951c0eadc36d886070da3a4e525d2c7299f6
     home: https://kairos.wenisch.tech
@@ -3190,7 +3256,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.16.0
-    created: "2026-10-08T07:57:16.01005551Z"
+    created: "2026-10-08T08:10:41.367994353Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 72112f0d68c50849981d0dea0b82e6b87c7e9055551a1d550ac219e3cc32e2e0
     home: https://kairos.wenisch.tech
@@ -3255,7 +3321,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.15.0
-    created: "2026-10-08T07:57:16.009225564Z"
+    created: "2026-10-08T08:10:41.367325993Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 1a9796359dc0f9e996de2d2daf4ffc1785603efc1583b7dda569910cb3d9de73
     home: https://kairos.wenisch.tech
@@ -3320,7 +3386,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.14.0
-    created: "2026-10-08T07:57:16.008380419Z"
+    created: "2026-10-08T08:10:41.366688809Z"
     description: A self-hosted uptime and availability monitoring application
     digest: fd78de8ad7b3100c76b84f5762e1bdf8f1915e23a3475196147606c532da10b8
     home: https://kairos.wenisch.tech
@@ -3385,7 +3451,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.13.3
-    created: "2026-10-08T07:57:16.007561123Z"
+    created: "2026-10-08T08:10:41.366015691Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 31f83d2ccb5c2813c1668ef488a097f249fb82380cddf6714d341a09b17ee312
     home: https://kairos.wenisch.tech
@@ -3450,7 +3516,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.13.2
-    created: "2026-10-08T07:57:16.00671694Z"
+    created: "2026-10-08T08:10:41.365367881Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 2aafbdf82103ded62e67eb7606a0251a77acad9b980ad6e2071ae4778f3bb940
     home: https://kairos.wenisch.tech
@@ -3515,7 +3581,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.13.1
-    created: "2026-10-08T07:57:16.005901982Z"
+    created: "2026-10-08T08:10:41.36471921Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 4f92decb504cf5de0466fc8092841388690b59fd81fa69d48a264656f1ca2137
     home: https://kairos.wenisch.tech
@@ -3580,7 +3646,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.13.0
-    created: "2026-10-08T07:57:16.005082225Z"
+    created: "2026-10-08T08:10:41.36403735Z"
     description: A self-hosted uptime and availability monitoring application
     digest: b91b391d929093d2f05900e2ad5c057577178ca8ad68bfd1bbb8820692311340
     home: https://kairos.wenisch.tech
@@ -3645,7 +3711,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.12.8
-    created: "2026-10-08T07:57:16.004194069Z"
+    created: "2026-10-08T08:10:41.363361719Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 8d787138480cc97e67d667e52beda2028d7d9ae0c51e62b8501d3f317ce0a221
     home: https://kairos.wenisch.tech
@@ -3710,7 +3776,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.12.7
-    created: "2026-10-08T07:57:16.002433576Z"
+    created: "2026-10-08T08:10:41.362518529Z"
     description: A self-hosted uptime and availability monitoring application
     digest: d43601aff636ead59cd99b4c3d81e0598027d874b77a3b95b96f8bf97d907bcf
     home: https://kairos.wenisch.tech
@@ -3775,7 +3841,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.12.6
-    created: "2026-10-08T07:57:16.001641832Z"
+    created: "2026-10-08T08:10:41.361253635Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 37a6df16e3d7224d829c341fb7591e8a0d0aaeb870bf0fc8528cd8bc33a8fd1e
     home: https://kairos.wenisch.tech
@@ -3840,7 +3906,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.12.5
-    created: "2026-10-08T07:57:16.000876336Z"
+    created: "2026-10-08T08:10:41.360646035Z"
     description: A self-hosted uptime and availability monitoring application
     digest: d883b9f81966b36433b1d1245f39a6d011f2027d1ec401f34e24931b074c5589
     home: https://kairos.wenisch.tech
@@ -3905,7 +3971,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.12.4
-    created: "2026-10-08T07:57:16.000097576Z"
+    created: "2026-10-08T08:10:41.360031814Z"
     description: A self-hosted uptime and availability monitoring application
     digest: b9e197ad7285d96b6da0b2d1174589ae72d078fd08e10afd12a493f0a46a7d6f
     home: https://kairos.wenisch.tech
@@ -3970,7 +4036,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.12.3
-    created: "2026-10-08T07:57:15.999292727Z"
+    created: "2026-10-08T08:10:41.359419507Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 49f42d203411da93e9c61837f6beb7bf698c608129b49d7fba0708d8e8d588ff
     home: https://kairos.wenisch.tech
@@ -4035,7 +4101,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.12.2
-    created: "2026-10-08T07:57:15.998502475Z"
+    created: "2026-10-08T08:10:41.358809123Z"
     description: A self-hosted uptime and availability monitoring application
     digest: a3ff2ae7dd9d25a2098929ddcf5e747fb26141e40e92b1bf4ea12e70f4f0278f
     home: https://kairos.wenisch.tech
@@ -4100,7 +4166,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.12.1
-    created: "2026-10-08T07:57:15.997720819Z"
+    created: "2026-10-08T08:10:41.358184337Z"
     description: A self-hosted uptime and availability monitoring application
     digest: cc0861d7385aab01590d53663a7da91072ca078f279886345e504dbbb7975276
     home: https://kairos.wenisch.tech
@@ -4165,7 +4231,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.12.0
-    created: "2026-10-08T07:57:15.99695289Z"
+    created: "2026-10-08T08:10:41.357578459Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 0a6023ceed64c7a112a3b5c3bbf07922ecc488f0560f94b47c6f33c2f73fcc40
     home: https://kairos.wenisch.tech
@@ -4230,7 +4296,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.11.0
-    created: "2026-10-08T07:57:15.996167206Z"
+    created: "2026-10-08T08:10:41.356957659Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 17b3c52507d127519eb4c3b6795e4f48619a61c42d4e4ed757d304536c8efa60
     home: https://kairos.wenisch.tech
@@ -4295,7 +4361,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.10.0
-    created: "2026-10-08T07:57:15.995365092Z"
+    created: "2026-10-08T08:10:41.356338692Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 288cdf23f3a217725a8950eba6210afbd57f234f09153e26cf9328c6eb46e828
     home: https://kairos.wenisch.tech
@@ -4360,7 +4426,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.9.6
-    created: "2026-10-08T07:57:16.065271435Z"
+    created: "2026-10-08T08:10:41.412013816Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 49de875c3837a2ac3b20a571b070cfabcf64e0fe30dd04ee8160f88044da51e9
     home: https://kairos.wenisch.tech
@@ -4425,7 +4491,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.9.5
-    created: "2026-10-08T07:57:16.064560692Z"
+    created: "2026-10-08T08:10:41.411426566Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 6a3ecabaa7c9f90fb50f47eb63801c69ac78ca9052898cd58455b8ef193cb2b2
     home: https://kairos.wenisch.tech
@@ -4490,7 +4556,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.9.4
-    created: "2026-10-08T07:57:16.063846342Z"
+    created: "2026-10-08T08:10:41.410863311Z"
     description: A self-hosted uptime and availability monitoring application
     digest: ec810846954649eebea788af4f683bc2edd4f627f4d8c03b882cdfc648a4daf4
     home: https://kairos.wenisch.tech
@@ -4555,7 +4621,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.9.1
-    created: "2026-10-08T07:57:16.063138205Z"
+    created: "2026-10-08T08:10:41.410277763Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 709c04a41b39d13bdf0fcd724102140f8a2ddf331d83a4f8eff989b7f02d81f9
     home: https://kairos.wenisch.tech
@@ -4620,7 +4686,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.9.0
-    created: "2026-10-08T07:57:16.06242106Z"
+    created: "2026-10-08T08:10:41.409721299Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 22432dd6c1a2d308bfe9a624a2047b3c66792cc5c6dbe834a9582bf8c6b3aace
     home: https://kairos.wenisch.tech
@@ -4685,7 +4751,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.8.2
-    created: "2026-10-08T07:57:16.061709766Z"
+    created: "2026-10-08T08:10:41.409157764Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 915100875854844232f78c39c048ef1f475ce7e0bfced62eab0a91e9324f6aa3
     home: https://kairos.wenisch.tech
@@ -4750,7 +4816,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.8.1
-    created: "2026-10-08T07:57:16.061010765Z"
+    created: "2026-10-08T08:10:41.40856118Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 8c7ac427698a9fb1df992420e78a5ee7622e230e32159c556436221cf4cdd219
     home: https://kairos.wenisch.tech
@@ -4815,7 +4881,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.8.0
-    created: "2026-10-08T07:57:16.060301826Z"
+    created: "2026-10-08T08:10:41.407984956Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 29e2fce3ebfac4a1b52a798d6123dddfa5bde988b5a9d607eb002b6e9e519351
     home: https://kairos.wenisch.tech
@@ -4880,7 +4946,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.7.6
-    created: "2026-10-08T07:57:16.059580804Z"
+    created: "2026-10-08T08:10:41.407360521Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 681cbca275a83f63f271a6257f357a18170ce1b55f3c685a3b2c1cf3d6ac669a
     home: https://kairos.wenisch.tech
@@ -4945,7 +5011,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.7.5
-    created: "2026-10-08T07:57:16.058892273Z"
+    created: "2026-10-08T08:10:41.406780281Z"
     description: A self-hosted uptime and availability monitoring application
     digest: ed44911f00344846a6413cf7c960a72bc5632998942a3340b99eaa2b58c35a74
     home: https://kairos.wenisch.tech
@@ -5010,7 +5076,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.7.4
-    created: "2026-10-08T07:57:16.058177383Z"
+    created: "2026-10-08T08:10:41.406194223Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 70bcd7155e95919be5aeea77f6a11f4c0ba8e1a6923c35fc45d632623eb29a09
     home: https://kairos.wenisch.tech
@@ -5075,7 +5141,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.7.3
-    created: "2026-10-08T07:57:16.057417879Z"
+    created: "2026-10-08T08:10:41.405587383Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 99cfdc75169f91e0e4319ebf700c78b4ed566209d50c7ea46586dd436148dd27
     home: https://kairos.wenisch.tech
@@ -5140,7 +5206,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.7.2
-    created: "2026-10-08T07:57:16.055882773Z"
+    created: "2026-10-08T08:10:41.404397004Z"
     description: A self-hosted uptime and availability monitoring application
     digest: f8dbaf38586a1e4da03bf3965d77ccd43e46f3ce8cb56a2a7ae86bd402ad60bf
     home: https://kairos.wenisch.tech
@@ -5205,7 +5271,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.7.1
-    created: "2026-10-08T07:57:16.054944394Z"
+    created: "2026-10-08T08:10:41.403634194Z"
     description: A self-hosted uptime and availability monitoring application
     digest: a7615fca985ca3d3b6e5d0043bf443adf4a5449eebffa25e9c6deb754a10d6fc
     home: https://kairos.wenisch.tech
@@ -5270,7 +5336,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.7.0
-    created: "2026-10-08T07:57:16.054218262Z"
+    created: "2026-10-08T08:10:41.403080193Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 8ff676ac62b8e18497362bf6b8a15c133d05503148d40c7563e0191ad8a47193
     home: https://kairos.wenisch.tech
@@ -5335,7 +5401,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.6.0
-    created: "2026-10-08T07:57:16.053488554Z"
+    created: "2026-10-08T08:10:41.402529076Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 23bfcbea3c373b76d624bd638ac17cc76ee34f7462c7bc6399634e19c5e657a5
     home: https://kairos.wenisch.tech
@@ -5400,7 +5466,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.5.2
-    created: "2026-10-08T07:57:16.052758004Z"
+    created: "2026-10-08T08:10:41.401967264Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 82da7c975d02d8047844a94c38c185a7182934fd986349b0b7da843d00eb8bb0
     home: https://kairos.wenisch.tech
@@ -5465,7 +5531,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.5.1
-    created: "2026-10-08T07:57:16.052067429Z"
+    created: "2026-10-08T08:10:41.401402807Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 7636f30c7b5afcebbcb3e07ee0b5679f585bea2986f735704e840b8a55fb7651
     home: https://kairos.wenisch.tech
@@ -5530,7 +5596,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.4.1
-    created: "2026-10-08T07:57:16.051341117Z"
+    created: "2026-10-08T08:10:41.400852181Z"
     description: A self-hosted uptime and availability monitoring application
     digest: db5c3955e6a840357b5d2a410f78baa1cdf2102f7b67dcccf5efeb8b9db76dea
     home: https://kairos.wenisch.tech
@@ -5595,7 +5661,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.4.0
-    created: "2026-10-08T07:57:16.050590961Z"
+    created: "2026-10-08T08:10:41.400278612Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 94b68dbd582e7ecf603faca116775ee9dc36a1f49feab7db8cea9dbb4c5ef37b
     home: https://kairos.wenisch.tech
@@ -5660,7 +5726,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.2.5
-    created: "2026-10-08T07:57:16.026441435Z"
+    created: "2026-10-08T08:10:41.38082095Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 09b5f09bd210b9473571048fe12c92c893fa29fc04c6dabdfb6c2871949fd4b6
     home: https://kairos.wenisch.tech
@@ -5725,7 +5791,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.1.0
-    created: "2026-10-08T07:57:15.994504058Z"
+    created: "2026-10-08T08:10:41.355714938Z"
     description: A self-hosted uptime and availability monitoring application
     digest: af50e398940b2e6a58bdf2805d1d107f22524f6664905d54fd78b16e7105c50d
     home: https://kairos.wenisch.tech
@@ -5790,7 +5856,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.0.2
-    created: "2026-10-08T07:57:15.993125849Z"
+    created: "2026-10-08T08:10:41.355042071Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 12ab223d5293d46023da20e7bc3444c8ec45a4e26da36bff0c1244149e669ea9
     home: https://kairos.wenisch.tech
@@ -5855,7 +5921,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.0.1
-    created: "2026-10-08T07:57:15.991946397Z"
+    created: "2026-10-08T08:10:41.353743466Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 738b72db6ca48ef34c247b06e7b3516217d012bfc6a6e82e73c65050e4f57f16
     home: https://kairos.wenisch.tech
@@ -5920,7 +5986,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 2.0.0
-    created: "2026-10-08T07:57:15.991236957Z"
+    created: "2026-10-08T08:10:41.353188303Z"
     description: A self-hosted uptime and availability monitoring application
     digest: de8d6a31d5f9df22e106248ba6c09914cdbc9d970963660e4d90469d84a6d1bc
     home: https://kairos.wenisch.tech
@@ -5985,7 +6051,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-10-08T07:57:15.973306412Z"
+    created: "2026-10-08T08:10:41.338822847Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 826cc0f4fed99b4fdd0a21251d15a22f5aa5c7bf8a1bd6beedd5ec42f572d85e
     home: https://kairos.wenisch.tech
@@ -6050,7 +6116,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.15.0
-    created: "2026-10-08T07:57:15.971910525Z"
+    created: "2026-10-08T08:10:41.338090312Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 1203913690f75433f3a6b59bf6551edf35ff1fe7ebc8c4fec132c05645c41d13
     home: https://kairos.wenisch.tech
@@ -6115,7 +6181,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.14.0
-    created: "2026-10-08T07:57:15.971207967Z"
+    created: "2026-10-08T08:10:41.337543101Z"
     description: A self-hosted uptime and availability monitoring application
     digest: a4dabcc0c32a68c5ad103986c9e577aab5a8a58c06262f6d5ccdecc9223c747c
     home: https://kairos.wenisch.tech
@@ -6180,7 +6246,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.13.9
-    created: "2026-10-08T07:57:15.970498677Z"
+    created: "2026-10-08T08:10:41.336966246Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 24da4ab7a89134dd4a8271113a6ba850e396e0b089b7acc1e7b3752bd3bb722f
     home: https://kairos.wenisch.tech
@@ -6245,7 +6311,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.13.8
-    created: "2026-10-08T07:57:15.969799947Z"
+    created: "2026-10-08T08:10:41.336405315Z"
     description: A self-hosted uptime and availability monitoring application
     digest: ae4e43ad65ed741f1f69ce79e67a262683533772c8f32ffe90bc0bcc9d82e0c3
     home: https://kairos.wenisch.tech
@@ -6310,7 +6376,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.13.7
-    created: "2026-10-08T07:57:15.969094094Z"
+    created: "2026-10-08T08:10:41.335865034Z"
     description: A self-hosted uptime and availability monitoring application
     digest: d96c4bbcb2a947edce1264cc79f65035b959d8bd04d0e61d54dd828a36f3a764
     home: https://kairos.wenisch.tech
@@ -6375,7 +6441,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.13.6
-    created: "2026-10-08T07:57:15.968386557Z"
+    created: "2026-10-08T08:10:41.335298475Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 7d9b920c73da271d09406b68ca918c24243b2674d9f408373234f452c0bb44dd
     home: https://kairos.wenisch.tech
@@ -6440,7 +6506,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.13.4
-    created: "2026-10-08T07:57:15.967669553Z"
+    created: "2026-10-08T08:10:41.334760798Z"
     description: A self-hosted uptime and availability monitoring application
     digest: be5f6e08822445fc79e0682cd4f900679f9286910ddac21fd5df842390b7e36f
     home: https://kairos.wenisch.tech
@@ -6505,7 +6571,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.13.1
-    created: "2026-10-08T07:57:15.966969059Z"
+    created: "2026-10-08T08:10:41.334214268Z"
     description: A self-hosted uptime and availability monitoring application
     digest: e3793116994a2a22e8f84c1ee31f44ff3fe45be1c0c3e9b464281a233b2853a8
     home: https://kairos.wenisch.tech
@@ -6570,7 +6636,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.13.0
-    created: "2026-10-08T07:57:15.966256122Z"
+    created: "2026-10-08T08:10:41.333676031Z"
     description: A self-hosted uptime and availability monitoring application
     digest: cd7ac9c40f567d5f2c1e2134cf94e78fbe28e8aef4013c35c3ca44a3a7e2a81f
     home: https://kairos.wenisch.tech
@@ -6635,7 +6701,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.12.10
-    created: "2026-10-08T07:57:15.959845305Z"
+    created: "2026-10-08T08:10:41.329251144Z"
     description: A self-hosted uptime and availability monitoring application
     digest: bdca0fbeb93a04c424699d86933b33383164c3a7f0ebd3bb35a76f622ba28157
     home: https://kairos.wenisch.tech
@@ -6698,7 +6764,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.12.8
-    created: "2026-10-08T07:57:15.965491489Z"
+    created: "2026-10-08T08:10:41.333112135Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 34d186593742c6678d2a764b47228ba1a1b1bce1242aa039e44452897b9f08dd
     home: https://github.com/wenisch-tech/Kairos
@@ -6759,7 +6825,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.12.7
-    created: "2026-10-08T07:57:15.96471398Z"
+    created: "2026-10-08T08:10:41.332558885Z"
     description: A self-hosted uptime and availability monitoring application
     digest: d4e8a2789c35bf114007181f8828459f675f5aa70e672f430b87a149df730ecb
     home: https://github.com/wenisch-tech/Kairos
@@ -6820,7 +6886,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.12.6
-    created: "2026-10-08T07:57:15.962671093Z"
+    created: "2026-10-08T08:10:41.331685542Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 725a3c6784a5991406ab1d53e7c42d07151651d6b4718a8cc2f59a4288a63e4b
     home: https://github.com/wenisch-tech/Kairos
@@ -6881,7 +6947,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.12.5
-    created: "2026-10-08T07:57:15.961917991Z"
+    created: "2026-10-08T08:10:41.330812909Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 1819f3723af7f05851744017941546f1c4bfa62aa23b8dd09b21bcb3dc774bfa
     home: https://github.com/wenisch-tech/Kairos
@@ -6942,7 +7008,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.12.4
-    created: "2026-10-08T07:57:15.961232205Z"
+    created: "2026-10-08T08:10:41.330289813Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 21f57d47ee51682ab50908798911806291c40e677fd4684c6cc71b44729bdf8d
     home: https://github.com/wenisch-tech/Kairos
@@ -7003,7 +7069,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.12.3
-    created: "2026-10-08T07:57:15.960547812Z"
+    created: "2026-10-08T08:10:41.329783012Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 58a1e1ebf95dd3f134bce37ff43f1cafd8f070b328580bb49baf8fe1c205b82e
     home: https://github.com/wenisch-tech/Kairos
@@ -7064,7 +7130,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.11.1
-    created: "2026-10-08T07:57:15.959127278Z"
+    created: "2026-10-08T08:10:41.32870182Z"
     description: A self-hosted uptime and availability monitoring application
     digest: d234d43efe8b8d2f144632ff3d5845a752ccab3bb1026bddbe3ff31fddf5dd20
     home: https://github.com/wenisch-tech/Kairos
@@ -7125,7 +7191,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.10.2
-    created: "2026-10-08T07:57:15.958421184Z"
+    created: "2026-10-08T08:10:41.328174169Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 1c964d12ea40cda3a4add006db696e951bde007e453809330ee71868f62a32b3
     home: https://github.com/wenisch-tech/Kairos
@@ -7186,7 +7252,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.10.0
-    created: "2026-10-08T07:57:15.957719138Z"
+    created: "2026-10-08T08:10:41.327630823Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 1530ed5f2e215a1d52dfff21164ed66d748713019389cdf1bf741a760b2e7cfb
     home: https://github.com/wenisch-tech/Kairos
@@ -7247,7 +7313,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.9.0
-    created: "2026-10-08T07:57:15.99051342Z"
+    created: "2026-10-08T08:10:41.352599341Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 044fb1548bbd0756d3d1d9e13e32c93474fcd61e251cc6313df2c24c29eb2210
     home: https://github.com/wenisch-tech/Kairos
@@ -7308,7 +7374,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.8.2
-    created: "2026-10-08T07:57:15.989838194Z"
+    created: "2026-10-08T08:10:41.352069646Z"
     description: A self-hosted uptime and availability monitoring application
     digest: b9ce1cd8cf0e0eb53f7b74f7402f63a0e1bc786f361348b6c69d14f22e247310
     home: https://github.com/wenisch-tech/Kairos
@@ -7369,7 +7435,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.8.1
-    created: "2026-10-08T07:57:15.989151897Z"
+    created: "2026-10-08T08:10:41.351549545Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 6accdb173e07747ce6270c03a97a6a1334ba2f14e7bdec083d723868af94c371
     home: https://github.com/wenisch-tech/Kairos
@@ -7430,7 +7496,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.7.1
-    created: "2026-10-08T07:57:15.988464288Z"
+    created: "2026-10-08T08:10:41.351015844Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 19b073786c76dc318897abb9741c6a77f14eee6a6f91d740bdfbfbce64b72cda
     home: https://github.com/wenisch-tech/Kairos
@@ -7491,7 +7557,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.6.0
-    created: "2026-10-08T07:57:15.987767291Z"
+    created: "2026-10-08T08:10:41.350474973Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 381f6bc5746af8a41ad5879978c14068a854f8c3cfa9dbda98d52acb32403c83
     home: https://github.com/wenisch-tech/Kairos
@@ -7552,7 +7618,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.5.9
-    created: "2026-10-08T07:57:15.987072989Z"
+    created: "2026-10-08T08:10:41.349903346Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 6b1a5151b80451a59cbb1f6fe1d4dedce70ed2e95a792ccef08c85e7158b438f
     home: https://github.com/wenisch-tech/Kairos
@@ -7613,7 +7679,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.5.8
-    created: "2026-10-08T07:57:15.986386301Z"
+    created: "2026-10-08T08:10:41.349330707Z"
     description: A self-hosted uptime and availability monitoring application
     digest: a2ff5e8743b42e930b9df8b7aa64055f256c8514eb573de52e5899995dc32ec3
     home: https://github.com/wenisch-tech/Kairos
@@ -7674,7 +7740,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.5.7
-    created: "2026-10-08T07:57:15.985682602Z"
+    created: "2026-10-08T08:10:41.348532905Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 82e4f022e67e4eff1b259e3e96c117bfa54f36cbe48ba920d38dab8ae82f885d
     home: https://github.com/wenisch-tech/Kairos
@@ -7735,7 +7801,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.5.6
-    created: "2026-10-08T07:57:15.985007446Z"
+    created: "2026-10-08T08:10:41.347891104Z"
     description: A self-hosted uptime and availability monitoring application
     digest: abc8a8b099914d88baecb762e80b2ad1a7001a1d8a8cb36aa676dfb50f58ee22
     home: https://github.com/wenisch-tech/Kairos
@@ -7796,7 +7862,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.5.5
-    created: "2026-10-08T07:57:15.984239476Z"
+    created: "2026-10-08T08:10:41.347320529Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 982b51b319bc8336713ade4695970b2291dccd71ba5e44032ca5a5812805b9c4
     home: https://github.com/wenisch-tech/Kairos
@@ -7857,7 +7923,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.5.4
-    created: "2026-10-08T07:57:15.982524916Z"
+    created: "2026-10-08T08:10:41.345993943Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 57979f453003a195aee6d5c95af278b83b5c8034486cb68605ebdc419b05ab8d
     home: https://github.com/wenisch-tech/Kairos
@@ -7918,7 +7984,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.5.3
-    created: "2026-10-08T07:57:15.98155117Z"
+    created: "2026-10-08T08:10:41.345487543Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 802937c3549982ce2847591c359153d531be7a4a019683306c9170a334f820a6
     home: https://github.com/wenisch-tech/Kairos
@@ -7979,7 +8045,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.4.8
-    created: "2026-10-08T07:57:15.980898837Z"
+    created: "2026-10-08T08:10:41.344985629Z"
     description: A self-hosted uptime and availability monitoring application
     digest: a7237446aab390eb74fd7723f987e0bacaf9cbf0d80e51f44147e8c58d59f8bd
     home: https://github.com/wenisch-tech/Kairos
@@ -8040,7 +8106,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.4.7
-    created: "2026-10-08T07:57:15.980251794Z"
+    created: "2026-10-08T08:10:41.344471176Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 2a27768c241af715e1bafd063f452f286eb518f6d4f2c6656f731a9d4e479d30
     home: https://github.com/wenisch-tech/Kairos
@@ -8101,7 +8167,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.4.6
-    created: "2026-10-08T07:57:15.979564485Z"
+    created: "2026-10-08T08:10:41.343971696Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 2f2f9f98fbefed5ab7fbd9534cb2f99ce910da017a937503786b215d5619c158
     home: https://github.com/wenisch-tech/Kairos
@@ -8162,7 +8228,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.4.5
-    created: "2026-10-08T07:57:15.978935255Z"
+    created: "2026-10-08T08:10:41.343471465Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 9a807efdce8915fef0faaba41fba328752e42b853f4525fee5f1a4390578dd1c
     home: https://github.com/wenisch-tech/Kairos
@@ -8223,7 +8289,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.4.4
-    created: "2026-10-08T07:57:15.978266311Z"
+    created: "2026-10-08T08:10:41.342914029Z"
     description: A self-hosted uptime and availability monitoring application
     digest: d9a52c10f1730de60d00871a5323fccadde6df27af939ac184893b625f202aa2
     home: https://github.com/wenisch-tech/Kairos
@@ -8284,7 +8350,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.4.2
-    created: "2026-10-08T07:57:15.977602616Z"
+    created: "2026-10-08T08:10:41.342370404Z"
     description: A self-hosted uptime and availability monitoring application
     digest: d3e19f765bda5dfc5c15ac9e96c68ddffdbdf1fa99adac0f01cd215b06590873
     home: https://github.com/wenisch-tech/Kairos
@@ -8345,7 +8411,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.4.1
-    created: "2026-10-08T07:57:15.976973687Z"
+    created: "2026-10-08T08:10:41.341874969Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 912e1cb955c2c69f8dce26e4eda370efa7473893825173ee275b0781178a70c1
     home: https://github.com/wenisch-tech/Kairos
@@ -8406,7 +8472,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.4.0
-    created: "2026-10-08T07:57:15.976300194Z"
+    created: "2026-10-08T08:10:41.341367467Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 8c0bbe4df986d1d19add3862988829b9ca4602365cadddbaec06b8f8f50e34b5
     home: https://github.com/wenisch-tech/Kairos
@@ -8467,7 +8533,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.3.0
-    created: "2026-10-08T07:57:15.975646508Z"
+    created: "2026-10-08T08:10:41.340873616Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 01cca3e9ff0dc417fde4b15f2eecbae0af62a93d295877f3db6c2a931c66ddd0
     home: https://github.com/wenisch-tech/Kairos
@@ -8528,7 +8594,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.2.1
-    created: "2026-10-08T07:57:15.975011798Z"
+    created: "2026-10-08T08:10:41.34034309Z"
     description: A self-hosted uptime and availability monitoring application
     digest: c474cf23087846ca9e560b55e7974c7a4fd1604dd133037f77977d4a7c49bb9f
     home: https://github.com/wenisch-tech/Kairos
@@ -8589,7 +8655,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.2.0
-    created: "2026-10-08T07:57:15.974284665Z"
+    created: "2026-10-08T08:10:41.339780816Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 582d26049c9039470442a775713beea4b52a3e8dada0eb307068091d29d9c09c
     home: https://github.com/wenisch-tech/Kairos
@@ -8650,7 +8716,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.0.9
-    created: "2026-10-08T07:57:15.957038391Z"
+    created: "2026-10-08T08:10:41.327104023Z"
     description: A self-hosted uptime and availability monitoring application
     digest: fa200cd06992cf2145500fef1d648837c8222759d5dcb365dac694f9492b100c
     home: https://github.com/wenisch-tech/Kairos
@@ -8711,7 +8777,7 @@ entries:
         url: https://github.com/wenisch-tech/Kairos/actions
     apiVersion: v2
     appVersion: 1.0.8
-    created: "2026-10-08T07:57:15.956392591Z"
+    created: "2026-10-08T08:10:41.326608709Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 8e83091de078f0dc6617d366d5e3d17d8a1df5f28b97320bbc734b427f860bcf
     home: https://github.com/wenisch-tech/Kairos
@@ -8772,7 +8838,7 @@ entries:
         url: https://github.com/JFWenisch/Kairos/actions
     apiVersion: v2
     appVersion: 1.0.7
-    created: "2026-10-08T07:57:15.95572566Z"
+    created: "2026-10-08T08:10:41.326043291Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 5ad72401ef514a7f238aa7fc953a7c6ec51dd24e8094e07c84c35268f2591b9a
     home: https://github.com/JFWenisch/Kairos
@@ -8833,7 +8899,7 @@ entries:
         url: https://github.com/JFWenisch/Kairos/actions
     apiVersion: v2
     appVersion: 1.0.4
-    created: "2026-10-08T07:57:15.955073918Z"
+    created: "2026-10-08T08:10:41.325541928Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 4f5f41c0c43f840298be89315557a7155c11494e8017b6211434bbb6008a96b6
     home: https://github.com/JFWenisch/Kairos
@@ -8894,7 +8960,7 @@ entries:
         url: https://github.com/JFWenisch/Kairos/actions
     apiVersion: v2
     appVersion: 1.0.2
-    created: "2026-10-08T07:57:15.953960853Z"
+    created: "2026-10-08T08:10:41.324980276Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 8dbab0be2190c474c41073d6fba884da8e0723464b9e9307a1365604b682c797
     home: https://github.com/JFWenisch/Kairos
@@ -8955,7 +9021,7 @@ entries:
         url: https://github.com/JFWenisch/Kairos/actions
     apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-10-08T07:57:15.952877842Z"
+    created: "2026-10-08T08:10:41.323847883Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 7de8426f68dc02770a515340aefe07bb198897fc3b0ceec88027d7ce1cbbf892
     home: https://github.com/JFWenisch/Kairos
@@ -9016,7 +9082,7 @@ entries:
         url: https://github.com/JFWenisch/Kairos/actions
     apiVersion: v2
     appVersion: 0.15.0
-    created: "2026-10-08T07:57:15.952212535Z"
+    created: "2026-10-08T08:10:41.323345559Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 34dc21a56d8fe867058a990ee9ba1e3b5a3c59b6bdd7ac5acd0d9940e357766c
     home: https://github.com/JFWenisch/Kairos
@@ -9077,7 +9143,7 @@ entries:
         url: https://github.com/JFWenisch/Kairos/actions
     apiVersion: v2
     appVersion: 0.14.0
-    created: "2026-10-08T07:57:15.951565642Z"
+    created: "2026-10-08T08:10:41.322855262Z"
     description: A self-hosted uptime and availability monitoring application
     digest: de09dc952d6d4471f18f7fd249055880873f0718708d1621a924c6f4300d2813
     home: https://github.com/JFWenisch/Kairos
@@ -9138,7 +9204,7 @@ entries:
         url: https://github.com/JFWenisch/Kairos/actions
     apiVersion: v2
     appVersion: 0.13.3
-    created: "2026-10-08T07:57:15.950940379Z"
+    created: "2026-10-08T08:10:41.322325287Z"
     description: A self-hosted uptime and availability monitoring application
     digest: e78295632aa9f58e776801e9594707f79c528d99f53e6aa5510d4fb9a794f7a7
     home: https://github.com/JFWenisch/Kairos
@@ -9199,7 +9265,7 @@ entries:
         url: https://github.com/JFWenisch/Kairos/actions
     apiVersion: v2
     appVersion: 0.13.2
-    created: "2026-10-08T07:57:15.950269151Z"
+    created: "2026-10-08T08:10:41.321837584Z"
     description: A self-hosted uptime and availability monitoring application
     digest: ff0917271881b0b1949fef5a05585192c9d973cbb663cfc7c0ff0cad791bb713
     home: https://github.com/JFWenisch/Kairos
@@ -9260,7 +9326,7 @@ entries:
         url: https://github.com/JFWenisch/Kairos/actions
     apiVersion: v2
     appVersion: 0.13.1
-    created: "2026-10-08T07:57:15.949618741Z"
+    created: "2026-10-08T08:10:41.321339877Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 8d636d5f32bce4b7ebff41c83716ad5ed5d5f8c1b9c7ed3884e7b677dfb51f3f
     home: https://github.com/JFWenisch/Kairos
@@ -9321,7 +9387,7 @@ entries:
         url: https://github.com/JFWenisch/Kairos/actions
     apiVersion: v2
     appVersion: 0.11.12
-    created: "2026-10-08T07:57:15.947340519Z"
+    created: "2026-10-08T08:10:41.319632326Z"
     description: A self-hosted uptime and availability monitoring application
     digest: d3e96ee26c9965c17880b4033519ea3c5aad2b17903ea98ced3dfda28b79432d
     home: https://github.com/JFWenisch/Kairos
@@ -9344,7 +9410,7 @@ entries:
     version: 0.11.12
   - apiVersion: v2
     appVersion: 0.11.9
-    created: "2026-10-08T07:57:15.948998588Z"
+    created: "2026-10-08T08:10:41.320852574Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 2c0c95e2b9ac84e4da5f395ddfee913a05feafdbd3b6a17a428aea20990b850f
     home: https://github.com/JFWenisch/Kairos
@@ -9366,7 +9432,7 @@ entries:
     version: 0.11.9
   - apiVersion: v2
     appVersion: 0.11.8
-    created: "2026-10-08T07:57:15.948458876Z"
+    created: "2026-10-08T08:10:41.320456177Z"
     description: A self-hosted uptime and availability monitoring application
     digest: e6c702e1639778234705aa0609ef2a8d656dffa06a0bcbfc2d5c9b131395086d
     home: https://github.com/JFWenisch/Kairos
@@ -9388,7 +9454,7 @@ entries:
     version: 0.11.8
   - apiVersion: v2
     appVersion: 0.11.7
-    created: "2026-10-08T07:57:15.947906951Z"
+    created: "2026-10-08T08:10:41.320044587Z"
     description: A self-hosted uptime and availability monitoring application
     digest: 3b4144a04d52d6468b631e5533bb12a940e4a6c2c56e7f4d7aeb67ed257b066a
     home: https://github.com/JFWenisch/Kairos
@@ -9418,7 +9484,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.12.20
-    created: "2026-10-08T07:57:16.08358525Z"
+    created: "2026-10-08T08:10:41.426251948Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: e6b59c11b699a11e083373a7f98a69fcdb61a9549a9eaa3a7880b706adea5b86
@@ -9448,7 +9514,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.12.19
-    created: "2026-10-08T07:57:16.081999867Z"
+    created: "2026-10-08T08:10:41.42502484Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 5d9e69364650c3fdc4f297b56f7991ad981ea99d4aec08f4bd027c1ba9e10996
@@ -9478,7 +9544,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.12.18
-    created: "2026-10-08T07:57:16.081208453Z"
+    created: "2026-10-08T08:10:41.424411551Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 556572a777c1e450541995f6acd19ab896c75fd9ac1378bb490708dd5d7a9bd2
@@ -9508,7 +9574,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.12.17
-    created: "2026-10-08T07:57:16.08037987Z"
+    created: "2026-10-08T08:10:41.423808818Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 45a6786c23d4ac4a9a54597dd0bf6a5ae1c4a4ee68302187535d5c7767d5bbc1
@@ -9538,7 +9604,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.12.15
-    created: "2026-10-08T07:57:16.079592423Z"
+    created: "2026-10-08T08:10:41.423151034Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 5cacf20df3d4689d41cd3bcacee8e0e563a4739d060ff802384134c33638729f
@@ -9568,7 +9634,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.12.14
-    created: "2026-10-08T07:57:16.078819444Z"
+    created: "2026-10-08T08:10:41.422509333Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: b42b9cc908211d027e59ca63a68cf7c3ddceb21596b1f534b628ad6df3f717dd
@@ -9598,7 +9664,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.12.10
-    created: "2026-10-08T07:57:16.077997112Z"
+    created: "2026-10-08T08:10:41.421482581Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 002345230d064a836e0eddab9505ac710ccd4bff0da8ae118af09c71ae71ed77
@@ -9628,7 +9694,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.12.9
-    created: "2026-10-08T07:57:16.089325071Z"
+    created: "2026-10-08T08:10:41.429863169Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 20c25eb56ff93e27f8f9ba74ab4626354ab28e982307b62fd5433bd20967689b
@@ -9658,7 +9724,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.12.7
-    created: "2026-10-08T07:57:16.088250641Z"
+    created: "2026-10-08T08:10:41.429267897Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 19264dd844eefdc46b75e8808562b90c6c1814a72fe0a6d4d206f6b555ec4fc4
@@ -9688,7 +9754,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.12.6
-    created: "2026-10-08T07:57:16.086710981Z"
+    created: "2026-10-08T08:10:41.4286824Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: e7b82e702a5d9ee836174ec3bb11eaf0aa15d46889c66ca7865c69843a9e7288
@@ -9718,7 +9784,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.12.5
-    created: "2026-10-08T07:57:16.085960965Z"
+    created: "2026-10-08T08:10:41.428063222Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 247f3d368e48b94d374b6fb70ebcc2240d69a84ed4e292912a483a85e523413b
@@ -9748,7 +9814,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.12.4
-    created: "2026-10-08T07:57:16.08514789Z"
+    created: "2026-10-08T08:10:41.427462452Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 2f8b7bdc8c09ce46e0e5f9b7266e051d2ee79d1ea3bd0cd412535cd3543c54c4
@@ -9778,7 +9844,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.12.3
-    created: "2026-10-08T07:57:16.084355795Z"
+    created: "2026-10-08T08:10:41.426863855Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: c776efa9fca22a941ca3e93c11072473c290af43819384222be740e8a7b3d171
@@ -9808,7 +9874,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.12.2
-    created: "2026-10-08T07:57:16.082775842Z"
+    created: "2026-10-08T08:10:41.42564567Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 5bb1477c5bf7b2a2f6ae97e6869fefdc01415c6d248153a31b0169c652b20071
@@ -9838,7 +9904,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.12.1
-    created: "2026-10-08T07:57:16.076192907Z"
+    created: "2026-10-08T08:10:41.420593944Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 49373ef3c08e1004b024dada6e0d5e69f13728bc2df86fca35b0e33a29410a05
@@ -9868,7 +9934,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.12.0
-    created: "2026-10-08T07:57:16.075423875Z"
+    created: "2026-10-08T08:10:41.420003029Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 942598077e0d16dbd23e6208906d19e79f60a0f996b78810d36f30ac2ae37415
@@ -9898,7 +9964,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.11.0
-    created: "2026-10-08T07:57:16.074651817Z"
+    created: "2026-10-08T08:10:41.419402179Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: f9d2aed7b4d7905e03e707223b109c060024637c16e7626d738bfc797f2010dd
@@ -9928,7 +9994,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.10.5
-    created: "2026-10-08T07:57:16.073904726Z"
+    created: "2026-10-08T08:10:41.418810632Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 5f0cfc7e3162be6afd8017e5d5a59067f148b3bc151ea75b655d6f3e6e200d89
@@ -9958,7 +10024,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.10.4
-    created: "2026-10-08T07:57:16.073125675Z"
+    created: "2026-10-08T08:10:41.418212295Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 978256e49c5cf6feab09067c0739be66c228bc7ba4569f0b8c259afa9efaac57
@@ -9988,7 +10054,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.10.3
-    created: "2026-10-08T07:57:16.072332067Z"
+    created: "2026-10-08T08:10:41.417598917Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 98c9bb25a840d4dcee06a83ac4156022203461e1f5b2fbd3066ceff502f03373
@@ -10018,7 +10084,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.10.2
-    created: "2026-10-08T07:57:16.071562344Z"
+    created: "2026-10-08T08:10:41.417000089Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 39589097a60a9d4261fa1dadc9e9b57fec23c8ca820a39c303530584e2252b98
@@ -10048,7 +10114,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.10.1
-    created: "2026-10-08T07:57:16.070806817Z"
+    created: "2026-10-08T08:10:41.416385729Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 41b0d65eff1b3f3fdcd9b255b4a4f7acfe0251b6fabe5073b5caac8791f5af1b
@@ -10078,7 +10144,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.10.0
-    created: "2026-10-08T07:57:16.069989495Z"
+    created: "2026-10-08T08:10:41.415778369Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 735c575df0e77c92908e676fa22687f776cc8521c351b3c483e96f7dd550af47
@@ -10108,7 +10174,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.9.1
-    created: "2026-10-08T07:57:16.113099705Z"
+    created: "2026-10-08T08:10:41.448607875Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 098b971779656f546a0d99d96755b98d874cc13ef4089baf2e26daea3db8ddc0
@@ -10138,7 +10204,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.9.0
-    created: "2026-10-08T07:57:16.112222831Z"
+    created: "2026-10-08T08:10:41.447968357Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 2f5f456176406e2cffa5b8bccfe1649cac78a77e018ae79d98e6f035a9a16914
@@ -10168,7 +10234,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.8.13
-    created: "2026-10-08T07:57:16.105664323Z"
+    created: "2026-10-08T08:10:41.443182146Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 61025736a241437cba622a799b3954ee2da97c7513ff5b7d8a6ae33934b4dc3d
@@ -10198,7 +10264,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.8.9
-    created: "2026-10-08T07:57:16.111378468Z"
+    created: "2026-10-08T08:10:41.447147281Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: f8dee07f676bd00b21f1cee787989bf3b50b36f878a516edfb5a307b8322133f
@@ -10228,7 +10294,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.8.8
-    created: "2026-10-08T07:57:16.110639542Z"
+    created: "2026-10-08T08:10:41.445981664Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 911136292f11b0e70bd07567bd2865d3bbae052d9d60c9253ae0b8940217a89c
@@ -10258,7 +10324,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.8.7
-    created: "2026-10-08T07:57:16.109493701Z"
+    created: "2026-10-08T08:10:41.445430397Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: f62a21864aea3d58ae57e37eab3e8779055b35c51e11bc9b78478597b224f8fc
@@ -10288,7 +10354,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.8.4
-    created: "2026-10-08T07:57:16.10773709Z"
+    created: "2026-10-08T08:10:41.444870097Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: bac2fa4256ebab80d57cd6bdd04ebd6faafb7d0c924889cd349ecc9b0c288e2a
@@ -10318,7 +10384,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.8.3
-    created: "2026-10-08T07:57:16.107062885Z"
+    created: "2026-10-08T08:10:41.444317668Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 660e105701efae0d0f13a83d79b0c54fcec4eb22e63ace1499be56aa1ff7a91b
@@ -10348,7 +10414,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.8.2
-    created: "2026-10-08T07:57:16.106369485Z"
+    created: "2026-10-08T08:10:41.443742075Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 5ce7604fcca330717a9ecfe822c83ec4857dc020525fc2e1733f40f7ddc68330
@@ -10378,7 +10444,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.8.1
-    created: "2026-10-08T07:57:16.104963088Z"
+    created: "2026-10-08T08:10:41.442615927Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 8ed5cfe3a9543d067cb1421fdf6a9c3975f4f909690e1c820165c977c9285673
@@ -10408,7 +10474,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.8.0
-    created: "2026-10-08T07:57:16.104260711Z"
+    created: "2026-10-08T08:10:41.442020745Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 5f6783c6d8336ad1f50a08d49ea9a8e033ae790e381bb9de6aac6194771d6412
@@ -10438,7 +10504,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.7.2
-    created: "2026-10-08T07:57:16.103575206Z"
+    created: "2026-10-08T08:10:41.441487254Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 5517b16168d6e9d2af07cb12e29e7168348fe580a6e58fe34f594732dca64a94
@@ -10468,7 +10534,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.7.0
-    created: "2026-10-08T07:57:16.102899258Z"
+    created: "2026-10-08T08:10:41.440946783Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 06f1f864e4222f509688aa3a54eaffffd251b2c36d77e1ec474bdf573732faa2
@@ -10498,7 +10564,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.6.5
-    created: "2026-10-08T07:57:16.102207982Z"
+    created: "2026-10-08T08:10:41.440402297Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 12477c2721d81c2db59614314ae5b62fd3342aa97f1b6fc351f2c13bc8914a7f
@@ -10528,7 +10594,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.6.4
-    created: "2026-10-08T07:57:16.101517718Z"
+    created: "2026-10-08T08:10:41.439879402Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 549ae31d5f36050484005a8c3f86143fa815404d23baf93da68d89917a185887
@@ -10558,7 +10624,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.6.3
-    created: "2026-10-08T07:57:16.10084176Z"
+    created: "2026-10-08T08:10:41.43929133Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: d5bb4cca59f5a1ce298fadafa55c3c3286dfac2712058bdb3cd52fbeb1703514
@@ -10588,7 +10654,7 @@ entries:
       artifacthub.io/logoURL: https://raw.githubusercontent.com/wenisch-tech/proxera/main/docs/img/proxera.png
     apiVersion: v2
     appVersion: 0.6.2
-    created: "2026-10-08T07:57:16.100142048Z"
+    created: "2026-10-08T08:10:41.438614036Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 2678f0e68d5e86f14a4fe45af022aff4a91a04648e7033ca6a6a5365ffe9e4ac
@@ -10611,7 +10677,7 @@ entries:
     version: 0.6.2
   - apiVersion: v2
     appVersion: 0.6.1
-    created: "2026-10-08T07:57:16.099359922Z"
+    created: "2026-10-08T08:10:41.437511102Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 4f950986985694489e19d595321a9fd19b00a966c0038c6136f27c31ec9c3102
@@ -10634,7 +10700,7 @@ entries:
     version: 0.6.1
   - apiVersion: v2
     appVersion: 0.6.0
-    created: "2026-10-08T07:57:16.097707729Z"
+    created: "2026-10-08T08:10:41.437004902Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: a999d6542ddfdffd29e55ac821eaa27e453b8ae7ce90bcf4b586cd9cc72b9f09
@@ -10657,7 +10723,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: 0.5.2
-    created: "2026-10-08T07:57:16.097039776Z"
+    created: "2026-10-08T08:10:41.43650422Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: e4349dd3b5062b9d122ca8d6fbc51df29d955e82c279cb685232a348661fb3ba
@@ -10680,7 +10746,7 @@ entries:
     version: 0.5.2
   - apiVersion: v2
     appVersion: 0.5.1
-    created: "2026-10-08T07:57:16.09634313Z"
+    created: "2026-10-08T08:10:41.435995226Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 3439dd1f948114fed86db90b77205b2964c3e8f6ae771a3ad622f1af6a3fbe2b
@@ -10703,7 +10769,7 @@ entries:
     version: 0.5.1
   - apiVersion: v2
     appVersion: 0.5.0
-    created: "2026-10-08T07:57:16.095641364Z"
+    created: "2026-10-08T08:10:41.435484779Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 6abb370f9bf074847a1415cb0cd9cca9e08b0e40fe74cd163b7e859a3b6411a3
@@ -10726,7 +10792,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2026-10-08T07:57:16.0949458Z"
+    created: "2026-10-08T08:10:41.434936126Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: dd34cda742861f3a94652758b5072ea085cfa3d91688080a00472eb7c07f2169
@@ -10749,7 +10815,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 0.3.4
-    created: "2026-10-08T07:57:16.094250005Z"
+    created: "2026-10-08T08:10:41.434396937Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 5ce91a3f54d16ee54eab49a51d9457ec06341beb09cf27a92d820d7c51228ced
@@ -10772,7 +10838,7 @@ entries:
     version: 0.3.4
   - apiVersion: v2
     appVersion: 0.3.2
-    created: "2026-10-08T07:57:16.09355908Z"
+    created: "2026-10-08T08:10:41.433870537Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 20bdde504b96c90cdbd71f35da38a865d69fdf5f5e6b5bcf64295212b4ab7707
@@ -10795,7 +10861,7 @@ entries:
     version: 0.3.2
   - apiVersion: v2
     appVersion: 0.3.1
-    created: "2026-10-08T07:57:16.092875308Z"
+    created: "2026-10-08T08:10:41.433317388Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 5c3918525dc413c049e99b690663b90df1eb9b83fe9e1c8ba4e80ac96d0ac38b
@@ -10818,7 +10884,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2026-10-08T07:57:16.092179833Z"
+    created: "2026-10-08T08:10:41.432796806Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 0cbb44a2d9c3f89d135d3dd936d016e9377bd41e6d4bc260b80fcf48192b03cd
@@ -10841,7 +10907,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.2.2
-    created: "2026-10-08T07:57:16.091487746Z"
+    created: "2026-10-08T08:10:41.432258288Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 0fd8a5dc435d719150e22789aa0c807e1d348367ca2a28fa03bc271fda7a8645
@@ -10864,7 +10930,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.2.1
-    created: "2026-10-08T07:57:16.090766243Z"
+    created: "2026-10-08T08:10:41.431727331Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 16910486a17dbf5c79b0e8ee0946612dfbeb61d84532d2c88a3e2e10899d2180
@@ -10887,7 +10953,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2026-10-08T07:57:16.090066581Z"
+    created: "2026-10-08T08:10:41.43114608Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 2bb2b05f51d14910ee2ad8374a0f3618b79929ba8f1bc9059a199e78ac9e14c8
@@ -10910,7 +10976,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-10-08T07:57:16.069213409Z"
+    created: "2026-10-08T08:10:41.415137309Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: d0f9aff47bf84bdca718dee81848328a7005287c73dd9fc836eca1f5179f5974
@@ -10933,7 +10999,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-10-08T07:57:16.068507736Z"
+    created: "2026-10-08T08:10:41.414595887Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: 0686eac5a1987c9751dbff0760a32565984ed27276b04df062b39127ab36553b
@@ -10956,7 +11022,7 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: 0.0.21
-    created: "2026-10-08T07:57:16.06780555Z"
+    created: "2026-10-08T08:10:41.413996148Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: b979960c4c9154e71dabbc7bd100cb3b6952995b8ca2ad36ce127c349bf4e2df
@@ -10979,7 +11045,7 @@ entries:
     version: 0.0.21
   - apiVersion: v2
     appVersion: 0.0.20
-    created: "2026-10-08T07:57:16.066364554Z"
+    created: "2026-10-08T08:10:41.412793321Z"
     description: Self-hosted reverse tunnel — expose LAN services to the internet
       over a secure WebSocket tunnel
     digest: cc7aebb8403dfd60b36b6d1c534be273fe16c0660575317512be380c8d370f9a
@@ -11003,7 +11069,7 @@ entries:
   proxera-agent:
   - apiVersion: v2
     appVersion: 0.4.4
-    created: "2026-10-08T07:57:16.117424975Z"
+    created: "2026-10-08T08:10:41.451891851Z"
     description: Proxera tunnel client
     digest: de3b0eaa27398a672faf407c927455114665bf7f7d292e57fc9dda3cb89db334
     name: proxera-agent
@@ -11013,7 +11079,7 @@ entries:
     version: 0.4.4
   - apiVersion: v2
     appVersion: 0.4.3
-    created: "2026-10-08T07:57:16.117193241Z"
+    created: "2026-10-08T08:10:41.451717493Z"
     description: Proxera tunnel client
     digest: fe98977036376e8418e14e83704bd007dc7980d93c0b4c149b3b38612a3f4fff
     name: proxera-agent
@@ -11023,7 +11089,7 @@ entries:
     version: 0.4.3
   - apiVersion: v2
     appVersion: 0.4.1
-    created: "2026-10-08T07:57:16.116961176Z"
+    created: "2026-10-08T08:10:41.451546379Z"
     description: Proxera tunnel client
     digest: 5b96e08ef0b49ab29a2f238f53b42f69939383ae746132757e526285ad5014de
     name: proxera-agent
@@ -11033,7 +11099,7 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2026-10-08T07:57:16.116678626Z"
+    created: "2026-10-08T08:10:41.451322397Z"
     description: Proxera tunnel client
     digest: d9d5289e32bb85e270d7eab3892397a7eced2d82d32ccf7fd8c18df11c54f040
     name: proxera-agent
@@ -11043,7 +11109,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 0.3.7
-    created: "2026-10-08T07:57:16.116458042Z"
+    created: "2026-10-08T08:10:41.451149821Z"
     description: Proxera tunnel client
     digest: 03ef5aaa77671f2f8add17d5b01e2b87e5fcb2dd9bd305417aeb570ed5724bd4
     name: proxera-agent
@@ -11053,7 +11119,7 @@ entries:
     version: 0.3.7
   - apiVersion: v2
     appVersion: 0.3.6
-    created: "2026-10-08T07:57:16.116236056Z"
+    created: "2026-10-08T08:10:41.450972719Z"
     description: Proxera tunnel client
     digest: 03e03731804b83f7a9a0654d51e1af51151e4680b7ccc403f625f85bbc83bf3e
     name: proxera-agent
@@ -11063,7 +11129,7 @@ entries:
     version: 0.3.6
   - apiVersion: v2
     appVersion: 0.3.4
-    created: "2026-10-08T07:57:16.116011675Z"
+    created: "2026-10-08T08:10:41.450790479Z"
     description: Proxera tunnel client
     digest: db1abd687d31643857805304c9bf01d97a91c43eddf520a2e961f01ee935f0b3
     name: proxera-agent
@@ -11073,7 +11139,7 @@ entries:
     version: 0.3.4
   - apiVersion: v2
     appVersion: 0.3.3
-    created: "2026-10-08T07:57:16.115760133Z"
+    created: "2026-10-08T08:10:41.450612285Z"
     description: Proxera tunnel client
     digest: 063bb1510a3fc97466e50a24051c99db3535a0edda61a0c848d10e4858883406
     name: proxera-agent
@@ -11083,7 +11149,7 @@ entries:
     version: 0.3.3
   - apiVersion: v2
     appVersion: 0.3.1
-    created: "2026-10-08T07:57:16.115530563Z"
+    created: "2026-10-08T08:10:41.450415904Z"
     description: Proxera tunnel client
     digest: 888fdf02f619eb498398130514078756c5f9a5f4f04307202123900e68806e44
     name: proxera-agent
@@ -11093,7 +11159,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2026-10-08T07:57:16.11529944Z"
+    created: "2026-10-08T08:10:41.450244049Z"
     description: Proxera tunnel client
     digest: d357a3d370a0f707278f2c21df6f169bccfeabce7402209554c02548c8161238
     name: proxera-agent
@@ -11103,7 +11169,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2026-10-08T07:57:16.11507022Z"
+    created: "2026-10-08T08:10:41.450067498Z"
     description: Proxera tunnel client
     digest: fab63194edd5e2fea88a5395cefbf00f03650b0acb474bfbe6b94bbfe4e18e82
     name: proxera-agent
@@ -11113,7 +11179,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2026-10-08T07:57:16.114834468Z"
+    created: "2026-10-08T08:10:41.449887521Z"
     description: Proxera tunnel client
     digest: cdcdf7e1d8b5cb0a77560dc102af2b64de42501acebf3b3603974510db95f91f
     name: proxera-agent
@@ -11123,7 +11189,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-10-08T07:57:16.114574631Z"
+    created: "2026-10-08T08:10:41.449712532Z"
     description: Proxera tunnel client
     digest: 13628e2018dbe64bc0aebbf1e316677cb4013911b56166dd2302ecbf4d39c74e
     name: proxera-agent
@@ -11133,7 +11199,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-10-08T07:57:16.114301018Z"
+    created: "2026-10-08T08:10:41.449534708Z"
     description: Proxera tunnel client
     digest: f8d7dc4244e47bf87268c7766ab2b3fabc23501a039ea0067ddf1a198ccd2fd7
     name: proxera-agent
@@ -11143,7 +11209,7 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: 0.0.11
-    created: "2026-10-08T07:57:16.11358744Z"
+    created: "2026-10-08T08:10:41.449007307Z"
     description: Proxera tunnel client
     digest: 20d49ac985e1702ca30ad64f977469c3fb21eabf9ab442de4c89abadb4c258a1
     name: proxera-agent
@@ -11153,7 +11219,7 @@ entries:
     version: 0.0.11
   - apiVersion: v2
     appVersion: 0.0.10
-    created: "2026-10-08T07:57:16.113352619Z"
+    created: "2026-10-08T08:10:41.448807691Z"
     description: Proxera tunnel client
     digest: 9b357f2dfd56c42e7193ff0d43225114123b4aea0768a645d12f919babedcf5c
     name: proxera-agent
@@ -11163,7 +11229,7 @@ entries:
     version: 0.0.10
   - apiVersion: v2
     appVersion: 0.0.9
-    created: "2026-10-08T07:57:16.114071507Z"
+    created: "2026-10-08T08:10:41.44934676Z"
     description: Proxera tunnel client
     digest: b3f0c61bcb4cc95cd3a03fb2997bc3d316cd02eaed50d8575a9ac143e4a8be07
     name: proxera-agent
@@ -11173,7 +11239,7 @@ entries:
     version: 0.0.9
   - apiVersion: v2
     appVersion: 0.0.8
-    created: "2026-10-08T07:57:16.113835395Z"
+    created: "2026-10-08T08:10:41.449175686Z"
     description: Proxera tunnel client
     digest: dcae243fbaf8302f903be4892af48bba6b2bcbccea4115ced7b230acf256442f
     name: proxera-agent
@@ -11197,7 +11263,7 @@ entries:
       org.opencontainers.image.source: https://github.com/wenisch-tech/s3webui
     apiVersion: v2
     appVersion: 1.5.4
-    created: "2026-10-08T07:57:16.148753118Z"
+    created: "2026-10-08T08:10:41.477055168Z"
     description: A graphical web interface for S3 object storage
     digest: 5b33a9b7767db0aea45453d01926539402462e60180e3a4ea45ca4a923e2b76c
     home: https://github.com/wenisch-tech/s3webui
@@ -11230,7 +11296,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 1.5.3
-    created: "2026-10-08T07:57:16.147951155Z"
+    created: "2026-10-08T08:10:41.476365716Z"
     description: A graphical web interface for S3 object storage
     digest: b2db647b12fe9c7fd7f1866dccb53c405c9cbc5442fdb8f5d12a6a06bf23a451
     home: https://github.com/wenisch-tech/s3webui
@@ -11263,7 +11329,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 1.5.2
-    created: "2026-10-08T07:57:16.147116389Z"
+    created: "2026-10-08T08:10:41.47567334Z"
     description: A graphical web interface for S3 object storage
     digest: 0d6084bdfe61b285900cc157ade4bd3f1f0bad177090d8ffd498b0a200d292ae
     home: https://github.com/wenisch-tech/s3webui
@@ -11296,7 +11362,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 1.5.0
-    created: "2026-10-08T07:57:16.146283999Z"
+    created: "2026-10-08T08:10:41.474993974Z"
     description: A graphical web interface for S3 object storage
     digest: 7c50e346534c8c641d5e7e0a3fa3b3e458f121efeb3e0a811be86d5a7b184500
     home: https://github.com/wenisch-tech/s3webui
@@ -11329,7 +11395,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 1.4.1
-    created: "2026-10-08T07:57:16.145433393Z"
+    created: "2026-10-08T08:10:41.47430962Z"
     description: A graphical web interface for S3 object storage
     digest: 69b18c650ab33869f18bb48277041b0ff82ab51684afe9c622561d632fc86fd7
     home: https://github.com/wenisch-tech/s3webui
@@ -11362,7 +11428,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 1.4.0
-    created: "2026-10-08T07:57:16.144603838Z"
+    created: "2026-10-08T08:10:41.473649131Z"
     description: A graphical web interface for S3 object storage
     digest: b17b557ab39437a8f3a58c1f1f97434397d6270221b8155e57bad27d9b8829b8
     home: https://github.com/wenisch-tech/s3webui
@@ -11395,7 +11461,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 1.3.4
-    created: "2026-10-08T07:57:16.143775204Z"
+    created: "2026-10-08T08:10:41.472890707Z"
     description: A graphical web interface for S3 object storage
     digest: 4f877d23bf40daab55fcd3e039c0b420f98647c4d1face5abe4613ba0d4c2e4b
     home: https://github.com/wenisch-tech/s3webui
@@ -11428,7 +11494,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 1.3.3
-    created: "2026-10-08T07:57:16.142985093Z"
+    created: "2026-10-08T08:10:41.471400358Z"
     description: A graphical web interface for S3 object storage
     digest: f4c8f0be44c6c99fc79cfc5b0b5bb131ad31ebb0630282149b169be725b59199
     home: https://github.com/wenisch-tech/s3webui
@@ -11461,7 +11527,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 1.3.2
-    created: "2026-10-08T07:57:16.142146801Z"
+    created: "2026-10-08T08:10:41.470759018Z"
     description: A graphical web interface for S3 object storage
     digest: 5bbe359775b8be5115d54bac3f3d5a12768f9502aaec509679e3b926066468f9
     home: https://github.com/wenisch-tech/s3webui
@@ -11494,7 +11560,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 1.3.1
-    created: "2026-10-08T07:57:16.141201989Z"
+    created: "2026-10-08T08:10:41.470090097Z"
     description: A graphical web interface for S3 object storage
     digest: 8a829f3b91118c4bcf64f834da8b2472e5bf95a46a941965f94b9b743e0df84b
     home: https://github.com/wenisch-tech/s3webui
@@ -11527,7 +11593,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 1.3.0
-    created: "2026-10-08T07:57:16.139288589Z"
+    created: "2026-10-08T08:10:41.469408367Z"
     description: A graphical web interface for S3 object storage
     digest: 9001059e7c5407dfcf8c68b94210aa15583794e0b09a22ce5c5b77dfbe53662e
     home: https://github.com/wenisch-tech/s3webui
@@ -11560,7 +11626,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 1.2.3
-    created: "2026-10-08T07:57:16.138480524Z"
+    created: "2026-10-08T08:10:41.468757021Z"
     description: A graphical web interface for S3 object storage
     digest: fcdf4afd9099086fb48029e649d00d67c06fc744c7706d03185cae78a55ca554
     home: https://github.com/wenisch-tech/s3webui
@@ -11593,7 +11659,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 1.2.2
-    created: "2026-10-08T07:57:16.137667589Z"
+    created: "2026-10-08T08:10:41.468100699Z"
     description: A graphical web interface for S3 object storage
     digest: 534144fb72ed2050b96ead247529031f8b66c4e732ee961bd8a0a4b1c88a846d
     home: https://github.com/wenisch-tech/s3webui
@@ -11626,7 +11692,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 1.2.1
-    created: "2026-10-08T07:57:16.136886294Z"
+    created: "2026-10-08T08:10:41.467463335Z"
     description: A graphical web interface for S3 object storage
     digest: 8a14811141e36dd4b84f0ebd026c809ea0b836f72a6071e37012f250d7a67498
     home: https://github.com/wenisch-tech/s3webui
@@ -11659,7 +11725,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 1.2.0
-    created: "2026-10-08T07:57:16.136051358Z"
+    created: "2026-10-08T08:10:41.466789686Z"
     description: A graphical web interface for S3 object storage
     digest: 5f8f1cae40c6ff3213b2d534f4ffaf08c9f83f251de9569d1c7069ab2ee9a3f7
     home: https://github.com/wenisch-tech/s3webui
@@ -11692,7 +11758,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 1.1.0
-    created: "2026-10-08T07:57:16.13526276Z"
+    created: "2026-10-08T08:10:41.466147785Z"
     description: A graphical web interface for S3 object storage
     digest: e4686d9ab91ea5817d66e72c3915afd3cbc62c57d326b1ac4ce3e9c25b754708
     home: https://github.com/wenisch-tech/s3webui
@@ -11725,7 +11791,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 1.0.6
-    created: "2026-10-08T07:57:16.134481274Z"
+    created: "2026-10-08T08:10:41.465499875Z"
     description: A graphical web interface for S3 object storage
     digest: fd4365eba78fc9f4fd697caa65ff6889c50066f48ab5b1ddd5a0a63e21b82dc5
     home: https://github.com/wenisch-tech/s3webui
@@ -11758,7 +11824,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 1.0.5
-    created: "2026-10-08T07:57:16.13369508Z"
+    created: "2026-10-08T08:10:41.464839056Z"
     description: A graphical web interface for S3 object storage
     digest: 037a0803570ae152813a9d5ffb139c88c195228addc4927b89992c4e55a1d8ad
     home: https://github.com/wenisch-tech/s3webui
@@ -11791,7 +11857,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 1.0.3
-    created: "2026-10-08T07:57:16.132977144Z"
+    created: "2026-10-08T08:10:41.464215822Z"
     description: A graphical web interface for S3 object storage
     digest: 411ff626650034587a75af635886b66f24389fe8aede624cce48db75318085b7
     home: https://github.com/wenisch-tech/s3webui
@@ -11824,7 +11890,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 1.0.2
-    created: "2026-10-08T07:57:16.132175331Z"
+    created: "2026-10-08T08:10:41.463601382Z"
     description: A graphical web interface for S3 object storage
     digest: 9beff01266d1247a73bc9396325a04ab3b020bc1b440ecd71d8f0d4ed61e9cad
     home: https://github.com/wenisch-tech/s3webui
@@ -11857,7 +11923,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 1.0.1
-    created: "2026-10-08T07:57:16.131435333Z"
+    created: "2026-10-08T08:10:41.462623313Z"
     description: A graphical web interface for S3 object storage
     digest: 8a5dab78e57c8954bfdf1c498530cd2c780c9842391bbc8b588eb4e45a14c41b
     home: https://github.com/wenisch-tech/s3webui
@@ -11890,7 +11956,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 0.6.26
-    created: "2026-10-08T07:57:16.12770947Z"
+    created: "2026-10-08T08:10:41.460106013Z"
     description: A graphical web interface for S3 object storage
     digest: 25170109ece62ee2395a064457185a19ed915ea3c908f42a6faf3327c4e53617
     home: https://github.com/wenisch-tech/s3webui
@@ -11923,7 +11989,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 0.6.25
-    created: "2026-10-08T07:57:16.127108323Z"
+    created: "2026-10-08T08:10:41.459621354Z"
     description: A graphical web interface for S3 object storage
     digest: b517bee691d91645e7a061abeeb1e401d7e94d43345155a2c63e11c264a814da
     home: https://github.com/wenisch-tech/s3webui
@@ -11956,7 +12022,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 0.6.24
-    created: "2026-10-08T07:57:16.126487999Z"
+    created: "2026-10-08T08:10:41.45910574Z"
     description: A graphical web interface for S3 object storage
     digest: 5c2b767a283f8e1aacd0a5d21d912707894acdff0e2a3a56368c1ee8bb2ba09b
     home: https://github.com/wenisch-tech/s3webui
@@ -11989,7 +12055,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 0.6.22
-    created: "2026-10-08T07:57:16.125868908Z"
+    created: "2026-10-08T08:10:41.458620962Z"
     description: A graphical web interface for S3 object storage
     digest: 83faf1939188240ffb2f9f41863782583062879c0e962e0f543fbe02864590da
     home: https://github.com/wenisch-tech/s3webui
@@ -12022,7 +12088,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 0.6.20
-    created: "2026-10-08T07:57:16.125252924Z"
+    created: "2026-10-08T08:10:41.458119569Z"
     description: A graphical web interface for S3 object storage
     digest: dd2d876cb12b57c6a6f1c28298b28b3f4f7d93fd3c4d2dc4314541b7abc7ce9e
     home: https://github.com/wenisch-tech/s3webui
@@ -12055,7 +12121,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 0.6.19
-    created: "2026-10-08T07:57:16.124625878Z"
+    created: "2026-10-08T08:10:41.45763442Z"
     description: A graphical web interface for S3 object storage
     digest: 0b60e50e93fb6a0581004956cbf9e63f0ad3e46fc27b49772bc0d443ef3acac5
     home: https://github.com/wenisch-tech/s3webui
@@ -12088,7 +12154,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 0.6.14
-    created: "2026-10-08T07:57:16.124008821Z"
+    created: "2026-10-08T08:10:41.457129352Z"
     description: A graphical web interface for S3 object storage
     digest: e1f6588e80aeef6a0accf6804a023deb0cee32eb3afd79652f9106e2dc4661b5
     home: https://github.com/wenisch-tech/s3webui
@@ -12121,7 +12187,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 0.6.11
-    created: "2026-10-08T07:57:16.12337933Z"
+    created: "2026-10-08T08:10:41.456618665Z"
     description: A graphical web interface for S3 object storage
     digest: 259793e75f4aec75c3277dab73121789d1e138aaa5880ea5896ed5dbd52d6287
     home: https://github.com/wenisch-tech/s3webui
@@ -12154,7 +12220,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 0.6.7
-    created: "2026-10-08T07:57:16.13066065Z"
+    created: "2026-10-08T08:10:41.461564173Z"
     description: A graphical web interface for S3 object storage
     digest: 739a288126ca11fd4c2e0f679c8996437068cf48ca921fb9e6e9f748773e7fb8
     home: https://github.com/wenisch-tech/s3webui
@@ -12187,7 +12253,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 0.6.5
-    created: "2026-10-08T07:57:16.129826169Z"
+    created: "2026-10-08T08:10:41.461075629Z"
     description: A graphical web interface for S3 object storage
     digest: b99c976173f8b473d39c03bac9aaa9c04eb48e0fdd2aa9632a5875800181810f
     home: https://github.com/wenisch-tech/s3webui
@@ -12220,7 +12286,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 0.6.3
-    created: "2026-10-08T07:57:16.128353437Z"
+    created: "2026-10-08T08:10:41.460597701Z"
     description: A graphical web interface for S3 object storage
     digest: 91c29b660f366ebf6371b45416c2e73fde8c059210831d3bc29fc55235ac24f7
     home: https://github.com/wenisch-tech/s3webui
@@ -12253,7 +12319,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 0.6.1
-    created: "2026-10-08T07:57:16.122730604Z"
+    created: "2026-10-08T08:10:41.456117673Z"
     description: A graphical web interface for S3 object storage
     digest: 531cc8efa484d6b442e259f35eaf55b18dccbfa6efc6afcc4190d57c0bf76180
     home: https://github.com/wenisch-tech/s3webui
@@ -12286,7 +12352,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 0.6.0
-    created: "2026-10-08T07:57:16.122139535Z"
+    created: "2026-10-08T08:10:41.455632754Z"
     description: A graphical web interface for S3 object storage
     digest: 851f32eb4684f07d07a96f9e7a9dc0f93176be69e29dbc2dfe47a138bde6b87e
     home: https://github.com/wenisch-tech/s3webui
@@ -12319,7 +12385,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 0.5.3
-    created: "2026-10-08T07:57:16.121516407Z"
+    created: "2026-10-08T08:10:41.455120836Z"
     description: A graphical web interface for S3 object storage
     digest: 879b830580d2987d2a82feb114021e0fbedba8b203378bc8bf1dba0b4aaf90a0
     home: https://github.com/wenisch-tech/s3webui
@@ -12352,7 +12418,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 0.5.2
-    created: "2026-10-08T07:57:16.121015287Z"
+    created: "2026-10-08T08:10:41.454674484Z"
     description: A graphical web interface for S3 object storage
     digest: 348836d2953db08ee0a6e0395989f89eb3a36a79d4af0fd3fdb1546ba3db3475
     home: https://github.com/wenisch-tech/s3webui
@@ -12385,7 +12451,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 0.5.1
-    created: "2026-10-08T07:57:16.120464184Z"
+    created: "2026-10-08T08:10:41.45365915Z"
     description: A graphical web interface for S3 object storage
     digest: 0c425051d994300f2930f041caaff977fc433644131d4184bb1ea546dce799b8
     home: https://github.com/wenisch-tech/s3webui
@@ -12418,7 +12484,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 0.5.0
-    created: "2026-10-08T07:57:16.119956993Z"
+    created: "2026-10-08T08:10:41.453114843Z"
     description: A graphical web interface for S3 object storage
     digest: 7ca7f85d34bafa02fd6a2ba376c360d4409733ce19fc38e2f1e18057efde738e
     home: https://github.com/wenisch-tech/s3webui
@@ -12451,7 +12517,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 0.4.0
-    created: "2026-10-08T07:57:16.119277013Z"
+    created: "2026-10-08T08:10:41.452712217Z"
     description: A graphical web interface for S3 object storage
     digest: 2ccfe5271f8de4cb44e757c73ca370548f6036b2e929e36648f23ec2f2538f4a
     home: https://github.com/wenisch-tech/s3webui
@@ -12484,7 +12550,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 0.3.1
-    created: "2026-10-08T07:57:16.118094882Z"
+    created: "2026-10-08T08:10:41.452290201Z"
     description: A graphical web interface for S3 object storage
     digest: d72c6643d5df4324896f8bbe120d7dc4687386d01aa3fdf31c0d4528e2b75898
     home: https://github.com/wenisch-tech/s3webui
@@ -12509,7 +12575,7 @@ entries:
       org.opencontainers.image.source: https://github.com/wenisch-tech/SMTP2X
     apiVersion: v2
     appVersion: 0.5.3
-    created: "2026-10-08T07:57:16.14931942Z"
+    created: "2026-10-08T08:10:41.477516542Z"
     description: SMTP notifications to GitLab issues and webhooks
     digest: cfef7c964a92bd971917fb05a1b6e3ac0e25bb42658b0acfe11efe0917408c70
     home: https://github.com/wenisch-tech/SMTP2X
@@ -12520,4 +12586,4 @@ entries:
     urls:
     - https://charts.wenisch.tech/smtp2x/smtp2x-0.5.3.tgz
     version: 0.5.3
-generated: "2026-10-08T07:57:15.93528407Z"
+generated: "2026-10-08T08:10:41.310589111Z"
